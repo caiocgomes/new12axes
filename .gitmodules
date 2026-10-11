@@ -1,0 +1,3 @@
+[submodule "12axes"]
+	path = 12axes
+	url = https://github.com/caiocgomes/12axes.git
